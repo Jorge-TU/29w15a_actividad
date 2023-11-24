@@ -12,4 +12,10 @@
 	    <pattern>SOPA</pattern>
 	    <template>¿Quieres sopa del día o consomé?</template>
 	</category>
+	<category>
+	    <pattern>* ENTRADAS</pattern>
+	    <template>
+	        <srai>ENTRADAS</srai>
+	    </template>
+	</category>
 </aiml>
