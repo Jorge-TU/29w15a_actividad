@@ -20,6 +20,10 @@
 	    <template>¿Quieres sopa del día o consomé?</template>
 	</category>
 	<category>
+	    <pattern>LA * ESTÁ FRÍA</pattern>
+	    <template>Una enorme disculpa, llevo su <star/> a calentar</template>
+	</category>
+	<category>
 	    <pattern>* ENTRADAS</pattern>
 	    <template>
 	        <srai>ENTRADAS</srai>
